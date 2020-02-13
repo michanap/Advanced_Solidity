@@ -1,1 +1,1 @@
-# Advanced_Solidity
+Class materials for Columbia FinTech Class 2019
